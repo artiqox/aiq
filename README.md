@@ -1,7 +1,7 @@
 # Artiqox [AIQ]
 ## What is Artiqox?
 Artiqox is the worlds first cosmos/tendermint powered 
-information warehouse blockchain where *any* structured 
+information marketplace blockchain where *any* structured 
 information can be traded. 
 
 # Development and Contribution
@@ -12,3 +12,4 @@ submit pull requests when features or bug fixes are ready.
 # Contributors
 @seth_traend  
 @X4mp_1
+@makrochain
