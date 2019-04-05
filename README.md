@@ -10,6 +10,8 @@ other volunteers, can freely work in their own trees and
 submit pull requests when features or bug fixes are ready.
 
 # Contributors
-@seth_traend  
-@X4mp_1
+@seth_traend
+
+@X4mp_1		
+
 @makrochain
