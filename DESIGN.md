@@ -19,15 +19,15 @@ new data stored on the cloud and make it available for purchase to a paying cust
 The marketplace module provides the *API* to purchase structured information blobs.
 It should accept different filter/ranges to select the blobs of interest. Since all 
 information blobs will be indexed it should be possible to apply index filter for purchasing
-spefic information such as names, addresses, bandwith...
+specific information such as names, addresses, bandwith...
 
 3) Governance  
 The governance module manages the supply of **Artiqox Energy**
 
 ## Roadmap
-This roadmap is the first approach to write down a  simple development roadmap for building
+This roadmap is the first approach to write down a simple development roadmap for building
 the Artiqox ecosystem
-1) Building the Artiqox Applicaion Blockchain (aka Marketplace)  
+1) Building the Artiqox Application Blockchain (aka Marketplace)  
   Develop the baseapp with a simple banking and auth module  
   Add the storage module
   Add the marketplace module
